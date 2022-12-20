@@ -1,0 +1,4 @@
+Jack Black#123 Any St, Los Angeles, CA 95091#Grass#15.0#20.0#1500.0
+Mary Lamb#921 W. Ash Dr, Tempe, AZ 82294#Gravel#15.0#10.0#300.0
+Martha Tran#234 N. Porcupine St, Peoria, Tempe, AZ 85023#Gravel#7.0#5.0#70.0
+Mary Williams#929 W. Fir St, Seattle, WA 85992#Grass#20.0#20.0#2000.0
